@@ -1,0 +1,7 @@
+(10 x aantal glazen)/(lichaamsgewicht in kg x R) - (tijd sinds je eerste slok in uren - 0,5) x(lichaamsgewicht in kilogram 0,002)
+
+Rman = 0,7
+Rvrouw = 0,5
+
+
+We gaan in deze App ervanuit dat je gemiddeld 0,1 promille afbreekt in een uur
