@@ -1,0 +1,22 @@
+Berekenen Alcoholgehalte in bloed:
+	BAG (a x 10)/(g x r) – (u – 0,5) x (g x 0,002)
+
+	Verklaring:
+	a = aantal glazen
+	g = lichaamsgewicht
+	r = bij mannen 0,7 en bij vrouwen 0,5
+	u = het aantal uren vanaf het eerste glas
+
+Aantal glazen is standaard glazen. Een standaardglas is:
+	10cl wijn 12%
+	25cl bier 5%
+	Cocktail
+	5cl aperitief 15%
+	3.5cl sterk 35%
+Hier moeten we rekening mee houden als we het aantal glazen willen berekenen.
+Afbraak alcohol is 0.1 tot 0.25 % promille per uur.
+
+Bij update van promilage wordt er een timer gemaakt welke berekend hoelang het duurt voordat het alcohol uit je bloed is. Dit berekenen we door het promilage gedeeld door 0.1 te doen.
+De formule van de berekening promilage word alleen geupdate als mensen wat toevoegen na deze toevoeging wordt er een nieuwe timer gemaakt met het nieuwe promilage. 
+
+https://www.alcoholhulp.be/standaardglazen#:~:text=glas%20speciaal%20bier%2C%2033%20cl%2C%208%25%20%3D%202%20standaardglazen,%2C%2012%25%20%3D%20ongeveer%207%20standaardglazen 
